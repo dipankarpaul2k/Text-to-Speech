@@ -63,4 +63,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 For questions or feedback, feel free to contact:
 
-Dipankar Paul | [dipankarpaul2k@gmail.com](dipankarpaul2k@gmail.com)
+Dipankar Paul | dipankarpaul2k@gmail.com
