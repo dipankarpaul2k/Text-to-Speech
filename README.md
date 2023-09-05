@@ -28,7 +28,7 @@ This is a simple web application that allows users to convert text into speech u
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/dipankaraul2k/text-to-speech-web-app.git](https://github.com/dipankarpaul2k/Text-to-Speech.git)
+   git clone https://github.com/dipankaraul2k/text-to-speech-web-app.git
    ```
 
 2. Open the `index.html` file in your web browser.
