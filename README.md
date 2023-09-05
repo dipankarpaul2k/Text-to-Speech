@@ -4,6 +4,10 @@ This is a simple web application that allows users to convert text into speech u
 
 ## Screenshots
 
+![Screenshot 2023-09-06 001321](https://github.com/dipankarpaul2k/Text-to-Speech/assets/136841290/65c40c1e-7405-4efa-97ea-25cd02345467)
+
+
+![Screenshot 2023-09-06 001346](https://github.com/dipankarpaul2k/Text-to-Speech/assets/136841290/47605794-51fe-4759-9090-a6d8fd066e9f)
 
 
 ## Features
@@ -24,7 +28,7 @@ This is a simple web application that allows users to convert text into speech u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dipankaraul2k/text-to-speech-web-app.git
+   git clone [https://github.com/dipankaraul2k/text-to-speech-web-app.git](https://github.com/dipankarpaul2k/Text-to-Speech.git)
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -59,4 +63,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 For questions or feedback, feel free to contact:
 
-Dipankar Paul | dipankarpaul2k@gmail.com
+Dipankar Paul | [dipankarpaul2k@gmail.com](dipankarpaul2k@gmail.com)
